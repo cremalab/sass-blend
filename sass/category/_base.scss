@@ -4,9 +4,10 @@
  ////                                                    ////
 ////////////////////////////////////////////////////////////
 
+@import 'compass'		;
 @import 'resources/base'; // Aggregates Resources //
 @import 'typography'	;
 @import 'layout'		;
-@import 'module'		;
+@import 'modules/base'	;
 @import 'state'			;
 @import 'theme'			;
